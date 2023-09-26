@@ -22,3 +22,7 @@ Este proyecto consiste en un componente de código QR que puedes utilizar para m
 
    ```bash
    git clone https://github.com/jhnguillerm/qr-code-component-master.git
+
+## Resultado
+
+![Vista previa del componente de código QR](images/resultado.jpg)
